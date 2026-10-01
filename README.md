@@ -1,17 +1,10 @@
-<!-- Put this in a PUBLIC repo named DikshantDuggal/DikshantDuggal -->
-<!-- Search for TODO and fill in or delete each one. -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dikshant&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20AI%20builder%20%C2%B7%20Music%20producer&descSize=18&descAlignY=60" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=7C83FF&center=true&vCenter=true&width=560&lines=Ship+it%2C+then+fix+what+breaks.;B.Tech+CSE+%40+GNDU+Amritsar;Building+AI+products+and+hackathon+projects;Beats+by+jbx_records+%F0%9F%8E%A7)](https://git.io/typing-svg)
 
-<a href="TODO-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="TODO-portfolio"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://youtube.com/@Unkn0wnFreq7"><img src="https://img.shields.io/badge/UnknownFreq-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="TODO-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:TODO@email.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -27,16 +20,6 @@ Outside code, I'm a **music producer and beat maker** (`jbx_records`) working re
 
 ---
 
-## Results
-<!-- TODO: only keep what's true. Real numbers beat vague claims. -->
-
-| 🏆 | 🥈 | 🔟 | 🇮🇳 |
-|:--:|:--:|:--:|:--:|
-| **TODO** | **TODO** | **TODO** | **SIH 2026** |
-| TODO hackathon / rank | TODO | TODO | Smart India Hackathon, team project |
-
----
-
 ## Selected work
 
 <table>
@@ -46,19 +29,17 @@ Outside code, I'm a **music producer and beat maker** (`jbx_records`) working re
 ### 🎬 ClipForge
 `AI SaaS`
 
-Turns long-form video into short vertical clips automatically. Built for creators who want Shorts and Reels without manual editing.
+Turns long-form video into short vertical clips automatically, with YouTube publishing built in.
 
-`TODO stack` · [GitHub](TODO) · [Live](TODO)
+`Python` · `FastAPI` · `MongoDB` · `Stripe` · `Three.js`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 MemoryMitra
-`SIH 2026`
+`Smart India Hackathon 2026`
 
-AI cognitive games and a memory assistant for dementia patients, designed for India's North-East Region.
-
-`TODO stack` · [GitHub](TODO)
+AI cognitive games and a memory assistant for dementia patients, designed for India's North-East Region with multilingual support.
 
 </td>
 </tr>
@@ -68,9 +49,9 @@ AI cognitive games and a memory assistant for dementia patients, designed for In
 ### 🐕 DOGFOOD
 `72-hour team build`
 
-Hackathon platform for events, judging and voting. I owned the backend: models, schemas and APIs for events and teams.
+Hackathon platform for events, teams, submissions, judging and voting. I owned the backend foundation: database models, migrations and APIs.
 
-`React` · `FastAPI` · `PostgreSQL` · [GitHub](TODO)
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker` · [GitHub](https://github.com/Alphaparticle2000/DOGFOOD-)
 
 </td>
 <td width="50%" valign="top">
@@ -78,9 +59,9 @@ Hackathon platform for events, judging and voting. I owned the backend: models, 
 ### 🤖 Autonomous car
 `GNDU 1st-year project`
 
-Robot car with automatic day/night headlamps, obstacle avoidance and cliff detection.
+Arduino robot car with ultrasonic obstacle avoidance, IR cliff detection and automatic day/night headlamps.
 
-`Arduino / C++ (TODO confirm)` · [GitHub](TODO)
+`Arduino` · `C++`
 
 </td>
 </tr>
@@ -94,22 +75,21 @@ Robot car with automatic day/night headlamps, obstacle avoidance and cliff detec
 
 | | |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Creative** | FL Studio / DAW (TODO) · video editing · sound design |
-
-<!-- TODO: remove anything you don't actually use. -->
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Web and data** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Creative** | Music production · beat making · video editing |
 
 ---
 
 ## Beyond the code
 
 - 🎧 Producer at **jbx_records**: beats for artists across India and internationally
-- 🎸 Collaborating with guitarists and vocalists on original tracks
+- 🎸 Collaborating with guitarists on original tracks
 - 📺 Running **UnknownFreq**, a faceless horror storytelling channel
-- 💼 Freelance web development for local businesses and schools
+- 💼 Freelance web development
 
 ---
 
@@ -132,6 +112,8 @@ next:
 ---
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/DikshantDuggal/DikshantDuggal/output/robot.svg" alt="robot smashing my contribution graph" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=DikshantDuggal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshantDuggal&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
