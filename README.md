@@ -187,7 +187,7 @@ objective:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" />
+<img src="quote.svg" alt="“When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.” — L. Peter Deutsch" width="520" />
 
 <br/><br/>
 
