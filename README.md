@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- ULTRA INSTINCT GOKU -->
-<img src="https://i.pinimg.com/originals/e0/5a/a7/e05aa7afd498aaabfcb18f5e6e85e4e2.gif" width="360" />
+<!-- MASTERED ULTRA INSTINCT GOKU — if this giphy.com link still shows "content unavailable" on GitHub,
+     upload the gif to a repo (drag-drop into a new Issue to get a user-images.githubusercontent.com URL)
+     and swap it in here — that's the permanent fix for GitHub's camo proxy blocking giphy.com -->
+<img src="https://media.giphy.com/media/cb9aF9tzoRjgQ/giphy.gif" width="420" alt="Mastered Ultra Instinct Goku" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dikshant&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Producer&descSize=18&descAlignY=60" alt="header" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=7C83FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=85&lines=Architecting+products+that+scale+under+pressure.;B.Tech+CSE+%40+GNDU+Amritsar;Building+zero-to-one+AI+systems;Beats+%26+Sound+Design+by+jbx_records+%F0%9F%8E%A7)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dikshant&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20AI%20builder%20%C2%B7%20Beat%20maker&descSize=18&descAlignY=60" alt="header" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=7C83FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Ship+it%2C+then+fix+what+breaks.;B.Tech+CSE+%40+GNDU+Amritsar;Building+AI+products+that+actually+work;Beats+by+jbx_records+%F0%9F%8E%A7)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://github.com/DikshantDuggal"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://youtube.com/@Unkn0wnFreq7"><img src="https://img.shields.io/badge/UnknownFreq-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:dikshantduggal@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/DikshantDuggal"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/jbx_records"><img src="https://img.shields.io/badge/jbx__records-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:dikshantduggal70@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-7C83FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -21,145 +23,147 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ About
+## ⚡ Executive Summary
 
-I'm a B.Tech Computer Science student at **Guru Nanak Dev University, Amritsar**. I build AI tools and full-stack products end to end — the interface, the backend, and the part where it breaks and I have to fix it.
+I'm a Computer Science Engineer at **Guru Nanak Dev University, Amritsar**, obsessively focused on building high-throughput systems, zero-to-one AI products, and resilient web architectures. I take raw, messy problems and engineer production-grade platforms end to end.
 
-Outside code, I'm a **music producer and beat maker** (`jbx_records`) working remotely with artists across India and abroad, and I run **UnknownFreq**, a faceless horror content channel.
+When I’m not pushing commits, I engineer records under **`jbx_records`** — producing original instrumentals and mixing tracks for independent artists across the country and overseas.
 
-> **Looking for:** internships, freelance web projects, and hackathon teammates.
-> **Long-term:** MS in AI/ML or Data Science.
+> ⚔️ **The Directive:** Ship relentless products with zero bloat. Dominate tier-1 hackathons. If you're building something audacious, reach out.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏗️ Selected Work
+## 🏗️ Battle-Tested Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ CodeFlux
-`Interactive Algorithm Lab`
+`Interactive Algorithm Laboratory`
 
-A full-stack sorting algorithm laboratory — step-through visualizations, head-to-head race mode, predict-what-happens-next challenges, complexity quizzes, and a Gemini-powered AI tutor that sees your screen state.
+Full-stack algorithmic simulation lab featuring synchronized step-by-step telemetry, real-time head-to-head racing engines, predictive decision quizzes, and an integrated **Gemini AI Tutor** with real-time DOM-state awareness.
 
-`React 19` · `TypeScript` · `Tailwind v4` · `Three.js` · `Express` · `Gemini AI`
+`React 19` · `TypeScript` · `Tailwind v4` · `Three.js` · `Express` · `Gemini API`
 
-<a href="https://github.com/DikshantDuggal/CodeFlux"><img src="https://img.shields.io/badge/→_View_Repo-7C83FF?style=flat-square" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 ClipForge
-`AI SaaS`
-
-Turns long-form video into short vertical clips automatically, with YouTube publishing built in.
-
-`Python` · `FastAPI` · `MongoDB` · `Stripe` · `Three.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MemoryMitra
-`Smart India Hackathon 2026`
-
-AI cognitive games and a memory assistant for dementia patients, designed for India's North-East Region with multilingual support.
+<a href="https://github.com/DikshantDuggal/CodeFlux"><img src="https://img.shields.io/badge/→_View_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐕 DOGFOOD
-`72-hour team build`
+`72-Hour Rapid Build`
 
-Hackathon platform for events, teams, submissions, judging and voting. I owned the backend foundation: database models, migrations and APIs.
+Scalable event orchestration platform engineered for hackathon project submissions, automated judging matrices, and real-time live voting. Owned core backend architecture, relational schemas, database migrations, and secured APIs.
 
-`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker` · <a href="https://github.com/Alphaparticle2000/DOGFOOD-">GitHub</a>
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
+
+<a href="https://github.com/DikshantDuggal/DOGFOOD"><img src="https://img.shields.io/badge/→_View_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Autonomous Car
-`GNDU 1st-year project`
+### 🎬 ClipForge
+`AI Video SaaS`
 
-Arduino robot car with ultrasonic obstacle avoidance, IR cliff detection and automatic day/night headlamps.
+Intelligent pipeline parsing long-form content into high-engagement vertical shorts with contextual captioning, smart scene extraction, and automated delivery pipelines.
 
-`Arduino` · `C++`
+`Python` · `FastAPI` · `MongoDB` · `Stripe` · `Three.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Stock Volatility Analyzer
-`Data Dashboard`
+### 🧠 MemoryMitra
+`Smart India Hackathon 2026`
 
-Streamlit dashboard for volatility, RSI, sector performance and correlations across 18 Indian stocks.
+AI-driven cognitive stimulation engine and neuro-assistive memory framework designed for dementia patients, engineered with regional multilingual NLP for India’s North-Eastern demographic.
 
-`Python` · `Streamlit` · `Pandas` · <a href="https://github.com/DikshantDuggal/Stock-Analysis-and-Volatility">GitHub</a>
+`Machine Learning` · `Assistive Tech` · `Full Stack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Stock Volatility & Sector Analysis
+`Quant Dashboard`
+
+Real-time financial analytics dashboard computing dynamic volatility distributions, multi-asset RSI divergence, sector correlation matrices, and risk profiles across 18 NSE equities.
+
+`Python` · `Streamlit` · `Pandas` · `NumPy`
+
+<a href="https://github.com/DikshantDuggal/Stock-Analysis-and-Volatility"><img src="https://img.shields.io/badge/→_View_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Ground Vehicle
+`Hardware & Embedded C++`
+
+Self-navigating obstacle-avoidance platform integrating ultrasonic radar sweeping, infrared cliff-edge detection failsafes, and adaptive photocell illumination subsystems.
+
+`Arduino` · `Embedded C++` · `Sensor Interfacing`
 
 </td>
 </tr>
 </table>
 
-**Also shipped:** [KM Convent School website](https://kmconventschool.com) (WordPress + Elementor, freelance) · beats and tracks on `jbx_records`
+**Client Deployments:** [KM Convent School](https://kmconventschool.com) (Full-scale production infrastructure) · Custom instrumentals & beat catalog via `jbx_records`.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧰 Toolbox
+## 🧰 Arsenal & Capabilities
 
 <div align="center">
 
-| | |
+| Domain | Weaponry |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Creative** | 🎧 Music production · 🎹 Beat making · 🎬 Video editing |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frontend Architecture** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
+| **Backend & Microservices** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Data Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI Integration** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Embedded & Robotics** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Acoustic Production** | 🎧 Full-chain Beatmaking · 🎹 Sound Design · 🎛️ Mixing & Mastering |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎧 Beyond the Code
+## 🎛️ Sonic Engine — `jbx_records`
 
 <table>
 <tr>
-<td>🎧</td><td>Producer at <b>jbx_records</b> — beats for artists across India and internationally</td>
+<td>🎧</td><td>Lead Producer at <b>jbx_records</b> — crafting heavy-hitting trap, melodic hip-hop, and ambient textures for independent artists.</td>
 </tr>
 <tr>
-<td>🎸</td><td>Collaborating with guitarists on original tracks</td>
+<td>🎸</td><td>Arranging live instrumentation, multi-tracking acoustic & electric guitars with modern synthetic synthesis.</td>
 </tr>
 <tr>
-<td>📺</td><td>Running <b>UnknownFreq</b>, a faceless horror storytelling channel</td>
-</tr>
-<tr>
-<td>💼</td><td>Freelance web development</td>
+<td>💼</td><td>Sound engineering, audio processing pipelines, and spatial audio exploration.</td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📡 Currently
+## 📡 Live Telemetry
 
 ```yaml
-building:
-  - CodeFlux           # interactive algorithm lab with AI tutor
-  - ClipForge          # AI video → short clips
-  - MemoryMitra        # SIH 2026
-learning:
-  - data structures and algorithms
-  - machine learning foundations
-  - scalable backend design
-next:
-  - win a big hackathon
-  - land a strong internship
-  - MS in AI/ML (long term)
+status: "Overclocked"
+focus:
+  - CodeFlux           # interactive algorithmic engineering & AI execution
+  - ClipForge          # autonomous video-to-shorts pipeline
+  - MemoryMitra        # SIH 2026 cognitive compute
+mastering:
+  - advanced distributed architectures
+  - high-concurrency backend design
+  - competition-grade algorithmic mastery
+objective:
+  - sweep national tier-1 hackathons
+  - architect game-changing products
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
