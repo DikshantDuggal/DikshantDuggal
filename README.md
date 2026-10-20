@@ -1,15 +1,8 @@
 <div align="center">
 
-<!-- MASTERED ULTRA INSTINCT GOKU — if this giphy.com link still shows "content unavailable" on GitHub,
-     upload the gif to a repo (drag-drop into a new Issue to get a user-images.githubusercontent.com URL)
-     and swap it in here — that's the permanent fix for GitHub's camo proxy blocking giphy.com -->
-<img src="https://media.giphy.com/media/cb9aF9tzoRjgQ/giphy.gif" width="420" alt="Mastered Ultra Instinct Goku" />
+<img src="./assets/dikshant-header.svg" width="100%" alt="Dikshant: Full-Stack Developer, AI Builder and Producer" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dikshant&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Producer&descSize=18&descAlignY=60" alt="header" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=7C83FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=85&lines=Architecting+products+that+scale+under+pressure.;B.Tech+CSE+%40+GNDU+Amritsar;Building+zero-to-one+AI+systems;Beats+%26+Sound+Design+by+jbx_records+%F0%9F%8E%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=7C83FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=85&lines=Architecting+products+that+scale+under+pressure.;B.Tech+CSE+%40+GNDU+Amritsar;Building+zero-to-one+AI+products;Beats+%26+Sound+Design+by+jbx_records+%F0%9F%8E%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,9 +18,9 @@
 
 ## ⚡ Executive Summary
 
-I'm a Computer Science Engineer at **Guru Nanak Dev University, Amritsar**, obsessively focused on building high-throughput systems, zero-to-one AI products, and resilient web architectures. I take raw, messy problems and engineer production-grade platforms end to end.
+B.Tech CSE student at **Guru Nanak Dev University, Amritsar**. I build fast backends, zero-to-one AI products, and web apps that hold up under pressure. Give me a messy problem and I'll ship it end to end.
 
-When I’m not pushing commits, I engineer records under **`jbx_records`** — producing original instrumentals and mixing tracks for independent artists across the country and overseas.
+When I’m not pushing commits, I’m in the studio as **`jbx_records`**, producing original instrumentals and mixing tracks for independent artists across India and overseas.
 
 > ⚔️ **The Directive:** Ship relentless products with zero bloat. Dominate tier-1 hackathons. If you're building something audacious, reach out.
 
@@ -187,7 +180,7 @@ objective:
 
 <br/><br/>
 
-<img src="quote.svg" alt="“When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.” — L. Peter Deutsch" width="520" />
+<img src="./assets/quote.svg" alt="“When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.” — L. Peter Deutsch" width="520" />
 
 <br/><br/>
 
