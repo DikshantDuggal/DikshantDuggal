@@ -73,7 +73,7 @@ Zero-retention AI mobile security platform protecting users against social engin
 </table>
 
 <div align="center">
-<a href="https://github.com/sansnow/hackerwrath-3.0"><img src="https://img.shields.io/badge/→_View_EdgeRunner_Guardian_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/DikshantDuggal/hackerwrath-3.0"><img src="https://img.shields.io/badge/→_View_EdgeRunner_Guardian_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
