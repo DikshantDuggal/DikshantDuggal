@@ -18,7 +18,7 @@
 
 ## ⚡ Executive Summary
 
-B.Tech CSE student at **Guru Nanak Dev University, Amritsar**. I build fast backends, zero-to-one AI products, and web apps that hold up under pressure. Give me a messy problem and I'll ship it end to end.
+B.Tech CSE student at **Guru Nanak Dev University, Amritsar**. I build fast backends, zero-to-one AI products, and mobile/web platforms that hold up under pressure. Give me a messy problem and I'll ship it end to end.
 
 When I’m not pushing commits, I’m in the studio as **`jbx_records`**, producing original instrumentals and mixing tracks for independent artists across India and overseas.
 
@@ -27,6 +27,56 @@ When I’m not pushing commits, I’m in the studio as **`jbx_records`**, produc
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏗️ Battle-Tested Work
+
+### 🛡️ EdgeRunner Guardian (HackerWrath 3.0) — Flagship Build
+`Real-Time Multilingual AI Scam-Call Defense & Acoustic Voice Authenticity Platform`
+
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![LiveKit WebRTC](https://img.shields.io/badge/LiveKit_WebRTC-002B49?style=flat-square&logo=webrtc&logoColor=white)](https://livekit.io/)
+[![Acoustic DSP](https://img.shields.io/badge/Acoustic_DSP-Anti_Spoofing_Filter-8E75B2?style=flat-square)](#)
+[![Benchmark Precision](https://img.shields.io/badge/Benchmark_Precision-72.58%25_Overall_|_100%25_Punjabi-success?style=flat-square)](#)
+
+</div>
+
+Zero-retention AI mobile security platform protecting users against social engineering, digital arrest scams, and voice-cloned deepfakes in real time during live calls. Engineered with dual-channel WebRTC audio separation, multilingual ASR, negation-aware context detection, and subband acoustic vocoder analysis.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 What Shipped in v1 (Production Ready)
+- **⚡ Dual-Channel Audio Pipeline:** Clean channel separation (caller vs receiver) via LiveKit WebRTC calling and Telegram VoIP audio bridge (`py-tgcalls`).
+- **🗣️ Indic Multilingual NLP:** Seamless transcription & analysis across **Hindi, Punjabi, Hinglish, and English**.
+- **🧠 Negation-Aware Context Scorer:** Eliminated false alarms on protective advice (`"Bank ka OTP kisi ke saath share mat karna"` returns `0.0` risk).
+- **🎙️ Acoustic Voice Authenticity:** Tri-state acoustic detector identifying AI synthetic speech and vocoder roll-off artifacts using windowed DFT subbands and spectral flatness.
+- **📱 Native Jetpack Compose UI:** Real-time call screening, animated security shield, audio chimes, and instant offline demo mode.
+- **🔒 Zero-Retention Privacy:** No raw audio is ever persisted to disk or cloud databases; strictly ephemeral in-memory processing.
+- **📊 Held-Out Benchmark Proven:** Evaluated on 1,000 real samples — **100.0% Punjabi precision**, **72.58% overall precision**, **3.15% FPR**, **1.41ms median latency**.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔮 What's Next in v2 (Active Roadmap)
+- **⚡ On-Device NPU / ONNX Inference:** Quantizing lightweight Indic SLMs for sub-50ms offline, zero-network edge scam detection.
+- **🧬 Speaker Biometric Delta Tracking:** Dynamic vocal tract embedding tracking to detect mid-call AI voice spoofing switches.
+- **📡 Telecom Overlay Integration:** Native accessibility call-screening overlay with zero-latency local audio loopback.
+- **🌐 Pan-India Dialect Expansion:** Fine-tuning on rural callsets for Bhojpuri, Marathi, Bengali, Tamil, and Malayalam.
+- **🤖 Decoy Honeypot Agent:** Autonomous conversational counter-agent that engages detected scammers to waste their operational time.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/sansnow/hackerwrath-3.0"><img src="https://img.shields.io/badge/→_View_EdgeRunner_Guardian_Repo-7C83FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -113,14 +163,14 @@ Self-navigating obstacle-avoidance platform integrating ultrasonic radar sweepin
 
 | Domain | Weaponry |
 |---|---|
-| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend Architecture** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **Backend & Microservices** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Mobile & Frontend** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
+| **Backend & Real-Time Comms** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LiveKit WebRTC](https://img.shields.io/badge/LiveKit_WebRTC-002B49?style=flat-square&logo=webrtc&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | **Data Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **AI Integration** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **AI, Speech & DSP** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Sarvam AI](https://img.shields.io/badge/Sarvam_AI_Saaras-FF6F00?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Embedded & Robotics** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Acoustic Production** | 🎧 Full-chain Beatmaking · 🎹 Sound Design · 🎛️ Mixing & Mastering |
+| **Acoustic Production & Audio DSP** | 🎧 Full-chain Beatmaking · 🎹 Sound Design · 🎛️ Mixing & Mastering · 🔬 Acoustic Anti-Spoofing & Vocoder Analysis |
 
 </div>
 
@@ -147,12 +197,13 @@ Self-navigating obstacle-avoidance platform integrating ultrasonic radar sweepin
 ```yaml
 status: "Overclocked"
 focus:
+  - EdgeRunner Guardian # real-time multilingual scam-call defense & deepfake voice engine
   - CodeFlux           # interactive algorithmic engineering & AI execution
   - ClipForge          # autonomous video-to-shorts pipeline
   - MemoryMitra        # SIH 2026 cognitive compute
 mastering:
-  - advanced distributed architectures
-  - high-concurrency backend design
+  - real-time audio DSP & WebRTC stream architectures
+  - high-concurrency backend design & SLM quantization
   - competition-grade algorithmic mastery
 objective:
   - sweep national tier-1 hackathons
